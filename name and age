@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    printf("Name: Pruthvi\nAge: 20\nCollege: XYZ\n");
+    return 0;
+}
